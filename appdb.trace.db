@@ -1,0 +1,3 @@
+2024-01-07 15:07:31.353811-05:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SELECT * FROM ADDRESS GUEST [*]GUEST"; SQL statement:
+SELECT * FROM ADDRESS GUEST GUEST [42000-224]
